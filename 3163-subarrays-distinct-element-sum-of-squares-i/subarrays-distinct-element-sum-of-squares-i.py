@@ -8,4 +8,4 @@ class Solution:
                 distinct_elements.add(nums[j])
                 count=len(distinct_elements)
                 total_sum+=count*count
-        return total_sum        
+        return total_sum
